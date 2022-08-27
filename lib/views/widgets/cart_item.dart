@@ -30,13 +30,7 @@ class CartItem extends StatelessWidget {
       child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
         ClipRRect(
           borderRadius: BorderRadius.circular(15),
-          child: CachedNetworkImage(
-
-            fit: BoxFit.fill,
-            placeholder: (context, url) =>
-                Center(child: CircularProgressIndicator()),
-            imageUrl: image ?? 'https://picsum.photos/250?image=9',
-          ),
+          child: Image.asset(image??'https://picsum.photos/250?image=9',fit: BoxFit.cover,height: 120,),
         ),
         Padding(
           padding: const EdgeInsets.all(4.0),

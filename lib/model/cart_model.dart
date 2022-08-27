@@ -17,42 +17,41 @@ class Products {
 final product = [
   {
     "name": "ABCD",
-    "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFlip-s.jpg"
+    "image" : 'images/products/blazer1.jpeg',
   },
   {
     "name": "QQWE",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold2-s.jpg"
+    'images/products/blazer2.jpeg'
   },
   {
     "name": "WWSA",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyA71-s.jpg"
+    'images/products/dress1.jpeg'
   },
   {
     "name": "EXMP",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyS20FE-s.jpg"
+    'images/products/dress2.jpeg'
   },
   {
     "name": "SADS",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyNote20Ultra-s.jpg"
+    'images/products/hills1.jpeg'
   },
   {
     "name": "SADS",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyS20FE-s.jpg"
+    'images/products/hills2.jpeg'
   },
   {
     "name": "SBDS",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyA70-s.jpg"
+    'images/products/blazer1.jpeg'
   },
   {
     "name": "SEDS",
     "image":
-    "https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold2-s.jpg"
+    'images/products/blazer2.jpeg'
   },
 ];
